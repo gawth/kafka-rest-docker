@@ -6,3 +6,4 @@ Following variables can be specified to set specific settings:
  - KAFKA_REST_CONSUMER_REQUEST_TIMEOUT_MS -> consumer.request.timeout.ms
  - KAFKA_REST_CONSUMER_REQUEST_MAX_BYTES -> consumer.request.max.bytes
  
+ This is for a temporary test of long polling
